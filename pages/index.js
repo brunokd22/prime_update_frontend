@@ -100,7 +100,7 @@ export default function Home() {
     <>
       <Head>
         <title>PrimeUpdate Website</title>
-        <meta name="description" content="vbmcoder - Personal Portfolio" />
+        <meta name="description" content="This is the prime upatde Website" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
       </Head>
